@@ -9,6 +9,6 @@ Zap-Hosting is a VPS, Rootserver, (Lifetime) Gameserver, Domain & TeamSpeak 3/5 
 
 Get your own **Server** today here: [Click me](https://zap-hosting.com/lldv)
 
-###Special offer
+### Special offer
 Use the code `proxma-20` for a 20% discount 
 ***
