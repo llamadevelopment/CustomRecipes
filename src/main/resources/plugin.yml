@@ -1,0 +1,6 @@
+name: CustomRecipes
+version: 1.0.0-SNAPSHOT
+api: 1.0.0
+author: Mundschutziii
+main: net.lldv.customrecipes.CustomRecipes
+description: Add your own crafting recipes and furnace recipes.
